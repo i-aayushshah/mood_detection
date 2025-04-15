@@ -1,6 +1,6 @@
 # 🖐️ Mood Detection Using CNN and MediaPipe
 
-This project focuses on detecting hand signs using a Convolutional Neural Network (CNN) for classification and Google's [MediaPipe](https://mediapipe.dev/) for real-time hand tracking. Everything is organized inside a Jupyter Notebook (`.ipynb`) for easy step-by-step execution.
+This project focuses on detecting mood detection using a Convolutional Neural Network (CNN) for classification and Google's [MediaPipe](https://mediapipe.dev/) for real-time mood tracking. Everything is organized inside a Jupyter Notebook (`.ipynb`) for easy step-by-step execution.
 
 ---
 
@@ -33,7 +33,7 @@ tf-gpu-env\Scripts\activate
 
 ### 3️⃣ Open the Notebook in VS Code
 
-Open `hand_sign_detection.ipynb` in VS Code.
+Open `pratik.ipynb` in VS Code.
 
 On the top right, click the kernel selection dropdown.
 
